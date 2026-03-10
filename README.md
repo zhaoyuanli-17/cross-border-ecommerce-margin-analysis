@@ -212,25 +212,30 @@ Therefore the Australia problem should be framed as:
 
 # Dashboard Structure
 
-The Power BI report contains three analytical pages:
+## Dashboard (Power BI)
+
+The Power BI dashboard is structured to mirror the analytical storyline of the project:
+
+1. Executive Overview  
+2. Delay Impact  
+3. Compensation ROI  
+4. Market Unit Economics  
 
 ### Executive Overview
-- revenue
-- profit
-- margin
-- profit bridge
-- margin by market
+
+![Executive Overview](images/Executive_Overview.png)
 
 ### Delay Impact
-- delay distribution
-- sentiment vs delay
-- refund rate vs delay
-- complaint rate vs delay
+
+![Delay Impact](images/Delay_Experience.png)
 
 ### Compensation ROI
-- voucher vs non-voucher outcomes
-- margin impact of compensation
-- interpretation of selection bias
+
+![Compensation ROI](images/Compensation_ROI.png)
+
+### Market Unit Economics
+
+![Market Unit Economics](images/Market_UnitEconomics.png)
 
 ---
 
