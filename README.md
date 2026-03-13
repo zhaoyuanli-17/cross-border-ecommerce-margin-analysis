@@ -13,7 +13,18 @@ The goal is not only to describe performance but to investigate:
 The project combines **Python exploratory analysis** with **Power BI dashboards** to translate operational data into business insights.
 
 ---
+Technical Focus
 
+This project demonstrates practical experience in:
+
+data processing with Python
+data modelling and transformation
+scenario simulation
+dashboard development
+iterative problem solving
+building reproducible analysis workflows
+
+---
 # Dataset
 
 The dataset contains **3,500 orders** across multiple sourcing markets.
